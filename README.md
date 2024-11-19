@@ -9,6 +9,7 @@ OPENAPI KEY
 
 ```bash
 run python main.py
+type 'exit' to exit 
 ```
 
 ## You can also ask queries like 
